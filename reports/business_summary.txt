@@ -1,0 +1,12 @@
+=== OLIST BUSINESS INSIGHTS SUMMARY ===
+
+Total Delivered Orders: 96,478
+Total Revenue (BRL): R$ 13,221,498.11
+Total Items Sold: 110,197
+
+Top 5 Selling Categories:
+ - cama_mesa_banho: 10,953 items
+ - beleza_saude: 9,465 items
+ - esporte_lazer: 8,431 items
+ - moveis_decoracao: 8,160 items
+ - informatica_acessorios: 7,644 items

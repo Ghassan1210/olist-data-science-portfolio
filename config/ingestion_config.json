@@ -1,0 +1,9 @@
+{
+  "raw_data_directory": "data/raw",
+  "supported_file_types": ["csv", "xlsx", "xls"],
+  "default_csv_encoding": "utf-8-sig",
+  "default_csv_delimiter": ",",
+  "default_excel_sheet": 0,
+  "fail_on_empty_dataset": true,
+  "fail_on_missing_columns": true
+}
